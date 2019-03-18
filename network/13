@@ -1,0 +1,6 @@
+#nslookup 10.112.8.38
+
+Server:		10.51.1.253
+Address:	10.51.1.253#53
+
+38.8.112.10.in-addr.arpa	name = e1z2r8p38.42.us.org.
