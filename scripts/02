@@ -13,7 +13,7 @@ if [ "$check_exist" != "$NULL" ]; then
 		sudo kill -9 $(pgrep -u $username)
 	fi
 	sudo userdel -r $username
-	echo "${green}USER WAS SUCCESSFULLY TEJ :-)"
+	echo "${green}USER WAS SUCCESSFULLY DELETE"
 else
 	echo "${red}user doesn't exist"
 fi
