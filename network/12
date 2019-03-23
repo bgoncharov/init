@@ -1,1 +1,4 @@
+#DHCP — Dynamic Host Configuration Protocol
+#https://whatismyipaddress.com/dhcp
+
 ifconfig en0 | grep "inet " | cut -d ' ' -f2

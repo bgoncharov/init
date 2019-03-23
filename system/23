@@ -1,2 +1,3 @@
-Graphical : Put your login and password when asked
-SSH : ssh <user>@<ip> then put password when asked
+Graphic: su username
+
+SSH: ssh <user>@<ip> then put password when asked
